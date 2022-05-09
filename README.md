@@ -8,3 +8,5 @@ Hey, I'm Simeon Wagner and currently studying computer science at the HfT Stuttg
 If you have Project Ideas don't hesitate to contact me. 
 The programming language I learned is Java, so I would enjoy to work with it and to get more experience.
 You can communicate with me in english, but I'm fluent in italian and german too.
+
+Hallo
